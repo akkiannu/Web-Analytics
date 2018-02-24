@@ -8,6 +8,7 @@ from pyclausie import ClausIE
 nlp = spacy.load('en')
 re_spaces = re.compile(r'\s+')
 
+cl = ClausIE.get_instance()
 
 class Person(object):
     def __init__(self, name, likes=None, has=None, travels=None):
@@ -176,8 +177,8 @@ def process_relation_triplet(triplet):
         # fw_who = [e for e in fw_doc.ents if e.label_ == 'PERSON'][0].text
 
         if triplet.subject in [e.text for e in doc.ents if e.label_ == 'PERSON'] and fw_who in [e.text for e in doc.ents if e.label_ == 'PERSON']:
-            s = add_person(triplet.subject)
-            o = add_person(fw_who)
+            s = add_person(str(triplet.subject))
+            o = add_person(str(fw_who))
             s.likes.append(o)
             o.likes.append(s)
     # Sally and Mary are friends.
@@ -263,36 +264,23 @@ def has_question_word(string):
 
     return False
 
-def answer_question():
-    answer = 'answer'
-    return answer
 
 
 
-def answer_question(question_string):
-    sents = get_data_from_file()
 
-    cl = ClausIE.get_instance()
-
-    try:
-        triples = cl.extract_triples(sents)
-    except:
-        triples = cl.extract_triples('Invalid Question Asked')
-
-    for t in triples:
-        r = process_relation_triplet(t)
-        #print(r)
-
-    question = question_string
+def answer_question(question=' '):
     while question[-1] != '?':
         question = raw_input("Please enter your question: ")
 
         if question[-1] != '?':
             print('This is not a question... please try again')
 
-    q_trip = cl.extract_triples([preprocess_question(question)])[0]
-    q_sentence = q_trip.subject + ' ' + q_trip.predicate + ' ' + q_trip.object
-    q_doc = nlp(unicode(q_sentence))
+    try:
+        q_trip = cl.extract_triples([preprocess_question(question)])[0]
+        q_sentence = q_trip.subject + ' ' + q_trip.predicate + ' ' + q_trip.object
+        q_doc = nlp(unicode(q_sentence))
+    except:
+        q_trip = cl.extract_triples('This is an invalid Question')
     q_raw = nlp(unicode(question))
     # (WHO, has, PET)
     # here's one just for dogs
@@ -347,12 +335,13 @@ def answer_question(question_string):
         if check==0:
             print(person_t+' is NOT traveling to '+dest+' anytime soon')
     # Q.5> Who likes <person>?
-    elif 'who' in q_sentence.lower() and ('ORG' in [e.label_ for e in q_doc.ents] or 'PERSON' in [e.label_ for e in q_doc.ents]):
+    elif ('who' in q_sentence.lower() and ('ORG' in [e.label_ for e in q_doc.ents] or 'PERSON' in [e.label_ for e in q_doc.ents])) and q_trip.predicate=='likes':
         person_l = str([t.text for t in q_doc.ents if (t.label_=='PERSON' or t.label_=='ORG')][0])
         like_l = []
         for person in persons:
-            if person_l in person.likes:
-                like_l.append(person)
+            for personl in person.likes:
+                    if person_l==personl.name:
+                        like_l.append(person.name)
         if len(like_l)>0:
             print(person_l+' is liked by the following people:')
             for p in like_l:
@@ -363,13 +352,13 @@ def answer_question(question_string):
             print('Nobody likes '+person_l)
 
     # Q.6> Who does <person> like?
-    elif q_sentence.subject.lower() == 'who' and 'does' in q_sentence.lower():
+    elif 'who' in q_sentence.lower() and 'does' in q_sentence.lower():
         person_lb = str([t.text for t in q_doc.ents if (t.label_=='PERSON' or t.label_=='ORG')][0])
         like_lb = []
         for person in persons:
             if person_lb==person.name:
                 for p in person.likes:
-                    like_lb.append(person)
+                    like_lb.append(p.name)
         if len(like_lb)==1:
             print(person_lb+' likes '+like_lb[0])
         elif len(person_lb)>1:
@@ -378,14 +367,36 @@ def answer_question(question_string):
                 print(q)
         else:
             print('Nobody likes '+person_lb)
-
+    else:
+        print("I don't know")
     # Q.7> Bonus (5 pts): What's the name of <person>'s <pet_type>?
-    elif 'what' in [t.text.lower() for t in q_raw if t.dep_=='attr'] and ('dog' or 'cat' in [t.text.lower() for t in q_raw if t.dep_=='pobj']):
-        name_p = str([t.text for t in q_doc.ents if (t.label_=='PERSON' or t.label_=='ORG')][0])
-        pet_type= 'dog' if 'dog' in [t.text.lower() for t in q_raw if t.dep_=='pobj'] else 'cat'
-        
+    # elif 'what' in [t.text.lower() for t in q_raw if t.dep_=='attr'] and ('dog' or 'cat' in [t.text.lower() for t in q_raw if t.dep_=='pobj']):
+    #     name_p = str([t.text for t in q_doc.ents if (t.label_=='PERSON' or t.label_=='ORG')][0])
+    #     pet_type= 'dog' if 'dog' in [t.text.lower() for t in q_raw if t.dep_=='pobj'] else 'cat'
+    #     pet_type2 = get_persons_pet(person.name)
+    #     for person in persons:
+    #         if name_p==person.name:
+    #             if pet_type2.type==pet_type:
+    #                 print(name_p+' has a '+pet_type+' named '+pet_type2.name)
+    #     else:
+    #         print(name_p+' has no '+pet_type)
 
 
+def process_data_from_input_file(path='chatbot_data.txt'):
+    sents = get_data_from_file(path)
+
+    triples = cl.extract_triples(sents)
+
+    for t in triples:
+        try:
+            process_relation_triplet(t)
+        except Exception as e:
+            print("""There was an error when processing following triplet in the data file: {}\nSENT: {}\nERROR: {}\n\n""".format(t, sents[int(t.index)], e))
+
+
+def main():
+    process_data_from_input_file()
+    answer_question()
 
 if __name__ == '__main__':
     main()
