@@ -280,7 +280,9 @@ def answer_question(question=' '):
         q_sentence = q_trip.subject + ' ' + q_trip.predicate + ' ' + q_trip.object
         q_doc = nlp(unicode(q_sentence))
     except:
-        q_trip = cl.extract_triples('This is an invalid Question')
+        q_trip = cl.extract_triples([preprocess_question('This is an invalid Question')])[0]
+        q_sentence = q_trip.subject + ' ' + q_trip.predicate + ' ' + q_trip.object
+        q_doc = nlp(unicode(q_sentence))
     q_raw = nlp(unicode(question))
     # (WHO, has, PET)
     # here's one just for dogs
