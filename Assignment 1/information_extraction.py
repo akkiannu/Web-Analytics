@@ -34,10 +34,9 @@ class Person(object):
 
 
 class Pet(object):
-    def __init__(self, pet_type, like=None, name=None):
+    def __init__(self, pet_type, name=None):
         self.name = name
         self.type = pet_type
-        self.like = [] if like is None else like
 
 
 class Trip(object):
@@ -342,8 +341,8 @@ def answer_question(question=' '):
         like_l = []
         for person in persons:
             for personl in person.likes:
-                    if person_l==personl.name:
-                        like_l.append(person.name)
+                if person_l==personl.name:
+                    like_l.append(person.name)
         if len(like_l)>0:
             print(person_l+' is liked by the following people:')
             for p in like_l:
@@ -369,22 +368,24 @@ def answer_question(question=' '):
                 print(q)
         else:
             print('Nobody likes '+person_lb)
+
+    # Q.7> Bonus (5 pts): What's the name of <person>'s <pet_type>?
+    elif 'what' in [t.text.lower() for t in q_raw if t.dep_=='attr'] and ('dog' or 'cat' in [t.text.lower() for t in q_raw if t.dep_=='pobj']):
+        name_p = str([t.text for t in q_raw.ents if (t.label_=='PERSON' or t.label_=='ORG')][0])
+        pet_type= 'dog' if 'dog' in [t.text.lower() for t in q_raw if t.dep_=='pobj'] else 'cat'
+        check=0
+        for person in persons:
+            if name_p==person.name:
+                pet_type2 = get_persons_pet(name_p)
+                if pet_type2.type==pet_type:
+                    print(name_p+' has a '+pet_type+' named '+pet_type2.name)
+                    check=1
+        if check==0:
+            print(name_p+' has no '+pet_type)
+
     else:
         print("I don't know")
-    # Q.7> Bonus (5 pts): What's the name of <person>'s <pet_type>?
-    # elif 'what' in [t.text.lower() for t in q_raw if t.dep_=='attr'] and ('dog' or 'cat' in [t.text.lower() for t in q_raw if t.dep_=='pobj']):
-    #     name_p = str([t.text for t in q_doc.ents if (t.label_=='PERSON' or t.label_=='ORG')][0])
-    #     pet_type= 'dog' if 'dog' in [t.text.lower() for t in q_raw if t.dep_=='pobj'] else 'cat'
-    #     pet_type2 = get_persons_pet(person.name)
-    #     for person in persons:
-    #         if name_p==person.name:
-    #             if pet_type2.type==pet_type:
-    #                 print(name_p+' has a '+pet_type+' named '+pet_type2.name)
-    #     else:
-    #         print(name_p+' has no '+pet_type)
-
-
-def process_data_from_input_file(path='chatbot_data.txt'):
+def process_data_from_input_file(path='assignment_01.data'):
     sents = get_data_from_file(path)
 
     triples = cl.extract_triples(sents)
