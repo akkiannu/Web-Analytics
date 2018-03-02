@@ -1,0 +1,1633 @@
+1519956405135	geckodriver	INFO	geckodriver 0.19.1
+1519956405143	geckodriver	INFO	Listening on 127.0.0.1:60179
+1519956408482	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Akshay\\AppData\\Local\\Temp\\rust_mozprofile.z6bCD0YCfFZQ"
+Unable to read VR Path Registry from C:\Users\Akshay\AppData\Local\openvr\openvrpaths.vrpath
+1519956410761	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Akshay\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Akshay\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Akshay\AppData\Local\openvr\openvrpaths.vrpath
+1519956412972	Marionette	INFO	Listening on port 60189
+Unable to read VR Path Registry from C:\Users\Akshay\AppData\Local\openvr\openvrpaths.vrpath
+1519956413726	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.mlbstatic.com/mlb.com/builds/site-core/52f9b8565cbfb77a553ebe8075945729d3a1bcd3_1519687120/scripts/site-core.js, line 22: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.mlbstatic.com/mlb.com/builds/site-core/52f9b8565cbfb77a553ebe8075945729d3a1bcd3_1519687120/scripts/site-core.js, line 22: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge1519956441982	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Akshay\\AppData\\Local\\Temp\\rust_mozprofile.00nN9xKbnOzy"
+Unable to read VR Path Registry from C:\Users\Akshay\AppData\Local\openvr\openvrpaths.vrpath
+1519956443884	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Akshay\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Akshay\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Akshay\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Akshay\AppData\Local\openvr\openvrpaths.vrpath
+1519956445499	Marionette	INFO	Listening on port 60376
+1519956445645	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.mlbstatic.com/mlb.com/builds/site-core/52f9b8565cbfb77a553ebe8075945729d3a1bcd3_1519687120/scripts/site-core.js, line 22: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.mlbstatic.com/mlb.com/builds/site-core/52f9b8565cbfb77a553ebe8075945729d3a1bcd3_1519687120/scripts/site-core.js, line 22: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+[Parent 5764, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 5764, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 28216, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 28216, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1519957369316	geckodriver	INFO	geckodriver 0.19.1
+1519957369335	geckodriver	INFO	Listening on 127.0.0.1:61879
+1519957372496	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Akshay\\AppData\\Local\\Temp\\rust_mozprofile.ZxkSSKXd56Ch"
+Unable to read VR Path Registry from C:\Users\Akshay\AppData\Local\openvr\openvrpaths.vrpath
+1519957375225	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Akshay\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Akshay\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Akshay\AppData\Local\openvr\openvrpaths.vrpath
+1519957378388	Marionette	INFO	Listening on port 61887
+Unable to read VR Path Registry from C:\Users\Akshay\AppData\Local\openvr\openvrpaths.vrpath
+1519957378930	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.mlbstatic.com/mlb.com/builds/site-core/52f9b8565cbfb77a553ebe8075945729d3a1bcd3_1519687120/scripts/site-core.js, line 22: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.mlbstatic.com/mlb.com/builds/site-core/52f9b8565cbfb77a553ebe8075945729d3a1bcd3_1519687120/scripts/site-core.js, line 22: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 22476, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returneIPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 14328, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1519957551042	geckodriver	INFO	geckodriver 0.19.1
+1519957551060	geckodriver	INFO	Listening on 127.0.0.1:62396
+1519957554239	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Akshay\\AppData\\Local\\Temp\\rust_mozprofile.Jv6jooywPoWE"
+Unable to read VR Path Registry from C:\Users\Akshay\AppData\Local\openvr\openvrpaths.vrpath
+1519957556990	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Akshay\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Akshay\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Akshay\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Akshay\AppData\Local\openvr\openvrpaths.vrpath
+1519957559380	Marionette	INFO	Listening on port 62405
+1519957559495	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.mlbstatic.com/mlb.com/builds/site-core/52f9b8565cbfb77a553ebe8075945729d3a1bcd3_1519687120/scripts/site-core.js, line 22: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.mlbstatic.com/mlb.com/builds/site-core/52f9b8565cbfb77a553ebe8075945729d3a1bcd3_1519687120/scripts/site-core.js, line 22: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol errUnable to read VR Path Registry from C:\Users\Akshay\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Akshay\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Akshay\AppData\Local\openvr\openvrpaths.vrpath
+1519957603908	Marionette	INFO	Listening on port 62597
+1519957604181	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Akshay\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://www.mlbstatic.com/mlb.com/builds/site-core/52f9b8565cbfb77a553ebe8075945729d3a1bcd3_1519687120/scripts/site-core.js, line 22: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.mlbstatic.com/mlb.com/builds/site-core/52f9b8565cbfb77a553ebe8075945729d3a1bcd3_1519687120/scripts/site-core.js, line 22: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 14312, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 14312, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 14312, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 25608, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 25608, Chr[GPU 26796, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+09: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1519957869084	geckodriver	INFO	geckodriver 0.19.1
+1519957869094	geckodriver	INFO	Listening on 127.0.0.1:63175
+1519957872233	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Akshay\\AppData\\Local\\Temp\\rust_mozprofile.jWCqp9A3rOSA"
+Unable to read VR Path Registry from C:\Users\Akshay\AppData\Local\openvr\openvrpaths.vrpath
+1519957875585	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Akshay\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Akshay\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Akshay\AppData\Local\openvr\openvrpaths.vrpath
+1519957880728	Marionette	INFO	Listening on port 63184
+1519957881133	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.mlbstatic.com/mlb.com/builds/site-core/52f9b8565cbfb77a553ebe8075945729d3a1bcd3_1519687120/scripts/site-core.js, line 22: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+Unable to read VR Path Registry from C:\Users\Akshay\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://www.mlbstatic.com/mlb.com/builds/site-core/52f9b8565cbfb77a553ebe8075945729d3a1bcd3_1519687120/scripts/site-core.js, line 22: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.mlbstatic.com/mlb.com/builds/site-core/52f9b8565cbfb77a553ebe8075945729d3a1bcd3_1519687120/scripts/site-core.js, line 22: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript warning: https://www.mlbstatic.com/mlb.com/builds/site-core/52f9b8565cbfb77a553ebe8075945729d3a1bcd3_1519687120/scripts/site-core.js, line 22: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]"  nsresult: "0x80004002 (NS_NOINTERFACE)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: _docShellToWindow :: line 782"  data: no]
+Stack: _docShellToWindow@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:782:9
+_docShellsToWindows/<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:806:38
+_docShellsToWindows@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:806:12
+_notifyDocShellsUpdate@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:810:19
+DebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1626:7
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+Line: 782, column: 0
+console.error: 
+  Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]"  nsresult: "0x80004002 (NS_NOINTERFACE)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: _docShellToWindow :: line 782"  data: no]
+Stack: _docShellToWindow@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:782:9
+_docShellsToWindows/<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:806:38
+_docShellsToWindows@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:806:12
+_notifyDocShellsUpdate@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:810:19
+DebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1626:7
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+Line: 782, column: 0
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]"  nsresult: "0x80004002 (NS_NOINTERFACE)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: DebuggerProgressListener.prototype.onStateChange< :: line 1629"  data: no]
+Stack: DebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1629:9
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+Line: 1629, column: 0
+console.error: 
+  Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]"  nsresult: "0x80004002 (NS_NOINTERFACE)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: DebuggerProgressListener.prototype.onStateChange< :: line 1629"  data: no]
+Stack: DebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1629:9
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+Line: 1629, column: 0
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]"  nsresult: "0x80004002 (NS_NOINTERFACE)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: _docShellToWindow :: line 782"  data: no]
+Stack: _docShellToWindow@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:782:9
+_docShellsToWindows/<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:8IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 28160, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 28160, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 28160, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+vaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::MJavaScript warning: https://www.mlbstatic.com/mlb.com/builds/site-core/52f9b8565cbfb77a553ebe8075945729d3a1bcd3_1519687120/scripts/site-core.js, line 22: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.mlbstatic.com/mlb.com/builds/site-core/52f9b8565cbfb77a553ebe8075945729d3a1bcd3_1519687120/scripts/site-core.js, line 22: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 28904, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 28904, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 32000, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 28904, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 31068, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 31068, Chrome
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+rror: 
+  Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1859"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1859:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:516:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+onStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1859, column: 0
+Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1859"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1859:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:516:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+onStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1859, column: 0
+console.error: 
+  Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1859"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1859:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:516:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+onStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1859, column: 0
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1859"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1859:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:641:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:590:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:689:7
+Line: 1859, column: 0
+console.error: 
+  Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1859"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1859:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:641:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:590:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:689:7
+Line: 1859, column: 0
+Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1859"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1859:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:641:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:590:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:689:7
+Line: 1859, column: 0
+console.error: 
+  Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1859"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1859:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:641:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:590:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:689:7
+Line: 1859, column: 0
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 5744, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 5744, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 22312, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 5744, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1519958775522	geckodriver	INFO	geckodriver 0.19.1
+1519958775532	geckodriver	INFO	Listening on 127.0.0.1:65125
+1519958778651	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Akshay\\AppData\\Local\\Temp\\rust_mozprofile.DYtiVVeIuUf0"
+Unable to read VR Path Registry from C:\Users\Akshay\AppData\Local\openvr\openvrpaths.vrpath
+1519958780774	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Akshay\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Akshay\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Akshay\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Akshay\AppData\Local\openvr\openvrpaths.vrpath
+1519958782594	Marionette	INFO	Listening on port 65133
+1519958782816	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 25732, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x49000F,name=PHttpChannel::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+[Child 21768, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/sr
+###!!! [Child][MessageChannel] Error: (msgtype=0x520027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+c/chrome/common/ipc_channel_win.cc, line 346
+[Child 12352, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12352, Chrome_Ch[Child 22432, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 22432, Chrome_[GPU 29884, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1519959137408	geckodriver	INFO	geckodriver 0.19.1
+1519959137418	geckodriver	INFO	Listening on 127.0.0.1:49906
+1519959140482	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Akshay\\AppData\\Local\\Temp\\rust_mozprofile.QrzSFkGvXfaE"
+Unable to read VR Path Registry from C:\Users\Akshay\AppData\Local\openvr\openvrpaths.vrpath
+1519959142395	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Akshay\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Akshay\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Akshay\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Akshay\AppData\Local\openvr\openvrpaths.vrpath
+1519959144000	Marionette	INFO	Listening on port 49914
+1519959144111	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://adadvisor.net/adscores/g.js?sid=9276253823, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://adadvisor.net/adscores/g.js?sid=9276253823, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: https://fw.adsafeprotected.com/rjss/bs.serving-sys.com/142142/22670391/BurstingPipe/adServer.bs?cn=rsb&c=28&pli=24095686&PluID=0&w=728&h=90&ncu=$$https://adclick.g.doubleclick.net/pcs/click?xai=AKAOjssrG73b1Zyw8EJEbCz6mG9lEgtMve2bqDzw00rTC-Z5G-9ORfyZiGgR40xcT2AtCKu1T5b70JjA9V5ZBKgYnr2jfoXImO2HR9z4sLSglbY1QqBAvtKXCV9T0L0SFzctVGrLXjRr5aTIZFmrO2OEvAUMXmNvmA0CowTElmX-G51KQNzg31flKKPK2lrO1-jKXvXyDulEG16HjzciXZQHPIynC5yIxDZuknwydKg0N1_V5CnQEaSV-SxhG4nz&sig=Cg0ArKJSzJ336uWtE6AkEAE&urlfix=1&adurl=$$&ord=832592214&ucm=true, line 257: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+Unable to read VR Path Registry from C:\Users\Akshay\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource:/JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+[Child 25084, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 25084, Chrome_ChildThread] WARNING: pipe error: 1[Child 30192, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 30192, Chrom
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+r.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+[Parent 25104, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 29256, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 29256, Chrome_ChIPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 25104, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 25104, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11860, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11860, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1519962333859	geckodriver	INFO	geckodriver 0.19.1
+1519962333866	geckodriver	INFO	Listening on 127.0.0.1:55423
+1519962336928	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Akshay\\AppData\\Local\\Temp\\rust_mozprofile.bYH4iWLR9eaX"
+Unable to read VR Path Registry from C:\Users\Akshay\AppData\Local\openvr\openvrpaths.vrpath
+1519962338374	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Akshay\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Akshay\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Akshay\AppData\Local\openvr\openvrpaths.vrpath
+1519962339814	Marionette	INFO	Listening on port 55431
+Unable to read VR Path Registry from C:\Users\Akshay\AppData\Local\openvr\openvrpaths.vrpath
+1519962340048	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 25396, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 25396, Chr[Child 3764, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3764, Chrome_ChildThread] WARNING: pi[Parent 21416, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chi
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1519962410342	geckodriver	INFO	geckodriver 0.19.1
+1519962410348	geckodriver	INFO	Listening on 127.0.0.1:55892
+1519962414003	geckodriver	INFO	geckodriver 0.19.1
+1519962414010	geckodriver	INFO	Listening on 127.0.0.1:55897
+1519962417075	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Akshay\\AppData\\Local\\Temp\\rust_mozprofile.tmHGuaBRYuEN"
+1519962430017	geckodriver	INFO	geckodriver 0.19.1
+1519962430024	geckodriver	INFO	Listening on 127.0.0.1:55911
+1519962433101	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Akshay\\AppData\\Local\\Temp\\rust_mozprofile.qfWl9W7uCXdR"
+Unable to read VR Path Registry from C:\Users\Akshay\AppData\Local\openvr\openvrpaths.vrpath
+1519962434517	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Akshay\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Akshay\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Akshay\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Akshay\AppData\Local\openvr\openvrpaths.vrpath
+1519962436193	Marionette	INFO	Listening on port 55920
+1519962436236	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 28620, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11172, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11172, Chrome_ChildThread] WARNING: pipe error: 109[Child 28396, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 28620, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+or this session
+Unable to read VR Path Registry from C:\Users\Akshay\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://adadvisor.net/adscores/g.js?sid=9276253823, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://adadvisor.net/adscores/g.js?sid=9276253823, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/JavaScript error: https://fw.adsafeprotected.com/rjss/www.googletagservices.com/93446/18421629/dcm/dcmads.js?adsafe_pb=https%3A%2F%2Fadserver.adtechus.com%2Faddyn%2F3.0%2F5399.1%2F2791060%2F0%2F225%2FADTECH%3Bloc%3D100%3Btarget%3D_blank%3Bsub1%3D329564772803076712%3Bsub2%3Dp-pBekKpzLPLnbf%3B, line 257: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: http://mlb.mlb.com/scripts/stats/app/bam.stats.app.unified_file.js, line 3812: TypeError: data_arr is undefined
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error coUnable to read VR Path Registry from C:\Users\Akshay\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11720, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 31408, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 30628, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17668, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17668, Chrom[Parent 31408, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ -> resource://devtools/server/actors/tab.js:806:38
+_docShellsToWindows@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:806:12
+_notifyDocShellsUpdate@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:810:19
+DebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1626:7
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+Line: 782, column: 0
+console.error: 
+  Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]"  nsresult: "0x80004002 (NS_NOINTERFACE)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: _docShellToWindow :: line 782"  data: no]
+Stack: _docShellToWindow@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:782:9
+_docShellsToWindows/<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:806:38
+_docShellsToWindows@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:806:12
+_notifyDocShellsUpdate@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:810:19
+DebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1626:7
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+Line: 782, column: 0
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]"  nsresult: "0x80004002 (NS_NOINTERFACE)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: DebuggerProgressListener.prototype.onStateChange< :: line 1629"  data: no]
+Stack: DebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1629:9
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+Line: 1629, column: 0
+console.error: 
+  Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]"  nsresult: "0x80004002 (NS_NOINTERFACE)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: DebuggerProgressListener.prototype.onStateChange< :: line 1629"  data: no]
+Stack: DebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1629:9
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+Line: 1629, column: 0
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]"  nsresult: "0x80004002 (NS_NOINTERFACE)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: _docShellToWindow :: line 782"  data: no]
+Stack: _docShellToWindow@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:782:9
+_docShellsToWindows/<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:806:38
+_docShellsToWindows@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:806:12
+_notifyDocShellsUpdate@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:810:19
+DebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1626:7
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+Line: 782, column: 0
+console.error: 
+  Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]"  nsresult: "0x80004002 (NS_NOINTERFACE)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: _docShellToWindow :: line 782"  data: no]
+Stack: _docShellToWindow@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:782:9
+_docShellsToWindows/<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:806:38
+_docShellsToWindows@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:806:12
+_notifyDocShellsUpdate@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:810:19
+DebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1626:7
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+Line: 782, column: 0
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]"  nsresult: "0x80004002 (NS_NOINTERFACE)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: DebuggerProgressListener.prototype.onStateChange< :: line 1629"  data: no]
+Stack: DebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1629:9
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+Line: 1629, column: 0
+console.error: 
+  Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]"  nsresult: "0x80004002 (NS_NOINTERFACE)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: DebuggerProgressListener.prototype.onStateChange< :: line 1629"  data: no]
+Stack: DebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1629:9
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+Line: 1629, column: 0
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]"  nsresult: "0x80004002 (NS_NOINTERFACE)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: _docShellToWindow :: line 782"  data: no]
+Stack: _docShellToWindow@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:782:9
+_docShellsToWindows/<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:806:38
+_docShellsToWindows@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:806:12
+_notifyDocShellsUpdate@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:810:19
+DebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1626:7
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+Line: 782, column: 0
+console.error: 
+  Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]"  nsresult: "0x80004002 (NS_NOINTERFACE)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: _docShellToWindow :: line 782"  data: no]
+Stack: _docShellToWindow@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:782:9
+_docShellsToWindows/<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:806:38
+_docShellsToWindows@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:806:12
+_notifyDocShellsUpdate@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:810:19
+DebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1626:7
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+Line: 782, column: 0
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]"  nsresult: "0x80004002 (NS_NOINTERFACE)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: DebuggerProgressListener.prototype.onStateChange< :: line 1629"  data: no]
+Stack: DebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1629:9
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+Line: 1629, column: 0
+console.error: 
+  Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]"  nsresult: "0x80004002 (NS_NOINTERFACE)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: DebuggerProgressListener.prototype.onStateChange< :: line 1629"  data: no]
+Stack: DebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1629:9
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+Line: 1629, column: 0
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]"  nsresult: "0x80004002 (NS_NOINTERFACE)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: _docShellToWindow :: line 782"  data: no]
+Stack: _docShellToWindow@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:782:9
+_docShellsToWindows/<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:806:38
+_docShellsToWindows@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:806:12
+_notifyDocShellsUpdate@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:810:19
+DebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1626:7
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+Line: 782, column: 0
+console.error: 
+  Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]"  nsresult: "0x80004002 (NS_NOINTERFACE)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: _docShellToWindow :: line 782"  data: no]
+Stack: _docShellToWindow@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:782:9
+_docShellsToWindows/<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:806:38
+_docShellsToWindows@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:806:12
+_notifyDocShellsUpdate@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:810:19
+DebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1626:7
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+Line: 782, column: 0
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]"  nsresult: "0x80004002 (NS_NOINTERFACE)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: DebuggerProgressListener.prototype.onStateChange< :: line 1629"  data: no]
+Stack: DebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1629:9
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+Line: 1629, column: 0
+console.error: 
+  Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]"  nsresult: "0x80004002 (NS_NOINTERFACE)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: DebuggerProgressListener.prototype.onStateChange< :: line 1629"  data: no]
+Stack: DebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1629:9
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+Line: 1629, column: 0
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]"  nsresult: "0x80004002 (NS_NOINTERFACE)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: _docShellToWindow :: line 782"  data: no]
+Stack: _docShellToWindow@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:782:9
+_docShellsToWindows/<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:806:38
+_docShellsToWindows@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:806:12
+_notifyDocShellsUpdate@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:810:19
+DebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1626:7
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+Line: 782, column: 0
+console.error: 
+  Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]"  nsresult: "0x80004002 (NS_NOINTERFACE)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: _docShellToWindow :: line 782"  data: no]
+Stack: _docShellToWindow@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:782:9
+_docShellsToWindows/<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:806:38
+_docShellsToWindows@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:806:12
+_notifyDocShellsUpdate@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:810:19
+DebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1626:7
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+Line: 782, column: 0
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]"  nsresult: "0x80004002 (NS_NOINTERFACE)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: DebuggerProgressListener.prototype.onStateChange< :: line 1629"  data: no]
+Stack: DebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1629:9
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+Line: 1629, column: 0
+console.error: 
+  Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]"  nsresult: "0x80004002 (NS_NOINTERFACE)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: DebuggerProgressListener.prototype.onStateChange< :: line 1629"  data: no]
+Stack: DebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1629:9
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+Line: 1629, column: 0
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]"  nsresult: "0x80004002 (NS_NOINTERFACE)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: _docShellToWindow :: line 782"  data: no]
+Stack: _docShellToWindow@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:782:9
+_docShellsToWindows/<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:806:38
+_docShellsToWindows@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:806:12
+_notifyDocShellsUpdate@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:810:19
+DebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1626:7
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+Line: 782, column: 0
+console.error: 
+  Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]"  nsresult: "0x80004002 (NS_NOINTERFACE)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: _docShellToWindow :: line 782"  data: no]
+Stack: _docShellToWindow@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:782:9
+_docShellsToWindows/<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:806:38
+_docShellsToWindows@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:806:12
+_notifyDocShellsUpdate@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:810:19
+DebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1626:7
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+Line: 782, column: 0
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]"  nsresult: "0x80004002 (NS_NOINTERFACE)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: DebuggerProgressListener.prototype.onStateChange< :: line 1629"  data: no]
+Stack: DebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1629:9
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+Line: 1629, column: 0
+console.error: 
+  Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]"  nsresult: "0x80004002 (NS_NOINTERFACE)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: DebuggerProgressListener.prototype.onStateChange< :: line 1629"  data: no]
+Stack: DebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1629:9
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+Line: 1629, column: 0
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]"  nsresult: "0x80004002 (NS_NOINTERFACE)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: _docShellToWindow :: line 782"  data: no]
+Stack: _docShellToWindow@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:782:9
+_docShellsToWindows/<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:806:38
+_docShellsToWindows@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:806:12
+_notifyDocShellsUpdate@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:810:19
+DebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1626:7
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+Line: 782, column: 0
+console.error: 
+  Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]"  nsresult: "0x80004002 (NS_NOINTERFACE)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: _docShellToWindow :: line 782"  data: no]
+Stack: _docShellToWindow@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:782:9
+_docShellsToWindows/<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:806:38
+_docShellsToWindows@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:806:12
+_notifyDocShellsUpdate@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:810:19
+DebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1626:7
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+Line: 782, column: 0
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]"  nsresult: "0x80004002 (NS_NOINTERFACE)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: DebuggerProgressListener.prototype.onStateChange< :: line 1629"  data: no]
+Stack: DebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1629:9
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+Line: 1629, column: 0
+console.error: 
+  Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]"  nsresult: "0x80004002 (NS_NOINTERFACE)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: DebuggerProgressListener.prototype.onStateChange< :: line 1629"  data: no]
+Stack: DebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1629:9
+exports.makeInfallible/<@resource://devtools/shared/JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+[Parent 13936, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13936, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/srJavaScript error: https://fw.adsafeprotected.com/rjss/bs.serving-sys.com/142142/22670391/BurstingPipe/adServer.bs?cn=rsb&c=28&pli=24095686&PluID=0&w=728&h=90&ncu=$$https://adclick.g.doubleclick.net/pcs/click?xai=AKAOjsv59HGEclCUQu3b2CNi5aIdxyF7agX6qZ9D3qhRL0RrzdSxDzcCb7MoBq8JsOPJsNUsBXpNcMpPlb8NzntES0xNb0kzFX15gwjds3mLMmiaUdMjii6s2PkJi2KBLbJYIS9hxIkffIa6uDYPI1JlMHEIqZqZoQztcLnssrudSW8zixJouSdUa1NGFC2IHRJyxbVXgIX7ibtDbz8a-iIANjC57F5GX88kTUK-GPjwDkALMBgeAX4eP6gHbTWa&sig=Cg0ArKJSzBGNJ_xitwLwEAE&urlfix=1&adurl=$$&ord=1342659790&ucm=true, line 257: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://fw.adsafeprotected.com/rjss/bs.serving-sys.com/142142/22670391/BurstingPipe/adServer.bs?cn=rsb&c=28&pli=24095686&PluID=0&w=728&h=90&ncu=$$https://adclick.g.doubleclick.net/pcs/click?xai=AKAOjstEh4cc9H5xvPsUi-esclYVyfFnwa1H7jjD20QDFFc14bbqzdxHkBtW66e0lPKChgr3S9zdjSJspc2p2S_OFcIwSqH3eEaGwZUTne4RamzjVtkw-PlcprETVDtYAb2I2IMUoXU5O3ksTTk5DI1hXqX6dRGuC20PcFnlyTHjME2Ypgad1CXFTytchy3ITSPyjxkRCsD4NbqrgBRnqLC28EohXrMb8exuRriTjbyKofepzWV-dZxVuZvRsvyX&sig=Cg0ArKJSzKwBY0G8zntIEAE&urlfix=1&adurl=$$&ord=770208222&ucm=true, line 257: NS_ERROR_NOT_INITIALIZED: 
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 27544, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 32416, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 27544, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 26492, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 26492, Chrome_ChildThread] WARNING: pi
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+vaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+[Parent 5452, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common1519964472005	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Akshay\\AppData\\Local\\Temp\\rust_mozprofile.Cn7S19pL7G6f"
+Unable to read VR Path Registry from C:\Users\Akshay\AppData\Local\openvr\openvrpaths.vrpath
+1519964475724	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Akshay\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Akshay\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Akshay\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Akshay\AppData\Local\openvr\openvrpaths.vrpath
+1519964477639	Marionette	INFO	Listening on port 62189
+1519964477767	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Akshay\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 2328, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 24052, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 2328, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 12856, Chrome_ChildThread] WARNING
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+
+Unable to read VR Path Registry from C:\Users\Akshay\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Akshay\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Akshay\AppData\Local\openvr\openvrpaths.vrpath
+1519964612582	Marionette	INFO	Listening on port 62922
+1519964612890	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 15232, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+nvr\openvrpaths.vrpath
+1519964638949	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Akshay\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Akshay\AppData\Local\openvr\openvrpaths.vrpath
+1519964640977	Marionette	INFO	Listening on port 63108
+Unable to read VR Path Registry from C:\Users\Akshay\AppData\Local\openvr\openvrpaths.vrpath
+1519964641343	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Akshay\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://adadvisor.net/adscores/g.js?sid=9276253823, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://adadvisor.net/adscores/g.js?sid=9276253823, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+[Child 21676, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 23056, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 23056, Chrome_ChildThr[Parent 21096, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+path
+Unable to read VR Path Registry from C:\Users\Akshay\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Akshay\AppData\Local\openvr\openvrpaths.vrpath
+1519964837700	Marionette	INFO	Listening on port 63909
+Unable to read VR Path Registry from C:\Users\Akshay\AppData\Local\openvr\openvrpaths.vrpath
+1519964837975	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://static.adsafeprotected.com/main.17.4.71.js, line 122: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://fw.adsafeprotected.com/rjss/bs.serving-sys.com/142142/22670391/BurstingPipe/adServer.bs?cn=rsb&c=28&pli=24095686&PluID=0&w=728&h=90&ncu=$$https://adclick.g.doubleclick.net/pcs/click?xai=AKAOjstMtBJq558WJ-JZFmpBUbdrabpfDg2jcxwieZR6KA-b6odKjXp6odl1W62_smbeX7tuxYmedVDiB86FBmGIuCEuLCzKPpMH_QHoylaZRk2JAFoN1AXje2HDdk_ULGG5S07Qd75GYWgq2W1nekdvwZCxj7IMoa7sRexFz7-6euyDIMR5_4uPJHg4XdtbvfZuzDF25KTkkniUeG0qDzdOUcCy8mghJh8A4qf_o0g3qNFDurB7lJx0a2DuoDt9&sig=Cg0ArKJSzMBh9Nqvtob0EAE&urlfix=1&adurl=$$&ord=1159032242&ucm=true, line 257: NS_ERROR_NOT_INITIALIZED: 
+[Child 15920, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+penvr\openvrpaths.vrpath
+1519964893595	Marionette	INFO	Listening on port 64252
+1519964893759	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://adadvisor.net/adscores/g.js?sid=9276253823, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://adadvisor.net/adscores/g.js?sid=9276253823, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://adadvisor.net/adscores/g.js?sid=9276253823, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+[Parent 1324, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 1324, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2172, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2172, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ read VR Path Registry from C:\Users\Akshay\AppData\Local\openvr\openvrpaths.vrpath
+1519965075498	Marionette	INFO	Listening on port 65148
+Unable to read VR Path Registry from C:\Users\Akshay\AppData\Local\openvr\openvrpaths.vrpath
+1519965075824	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 16152, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 16152, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 29704, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 29704, Chrome_ChildThread] WARNIN
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+able to read VR Path Registry from C:\Users\Akshay\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Akshay\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Akshay\AppData\Local\openvr\openvrpaths.vrpath
+1519965194859	Marionette	INFO	Listening on port 49277
+1519965195341	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 20620, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 20620, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9056, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+pData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Akshay\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Akshay\AppData\Local\openvr\openvrpaths.vrpath
+1519965351289	Marionette	INFO	Listening on port 50021
+Unable to read VR Path Registry from C:\Users\Akshay\AppData\Local\openvr\openvrpaths.vrpath
+1519965351526	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 21180, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15960, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 21180, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 21180, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registr1519965392034	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Akshay\\AppData\\Local\\Temp\\rust_mozprofile.C0RqxnMSJf0j"
+Unable to read VR Path Registry from C:\Users\Akshay\AppData\Local\openvr\openvrpaths.vrpath
+1519965393661	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Akshay\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Akshay\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Akshay\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Akshay\AppData\Local\openvr\openvrpaths.vrpath
+1519965395025	Marionette	INFO	Listening on port 50357
+1519965395147	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registr1519965451213	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profil1519965453088	geckodriver::marionette	ERROR	Failed to kill browser process
+Unable to read VR Path Registry from C:\Users\Akshay\AppData\Local\openvr\openvrpaths.vrpath
+1519965452770	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Akshay\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Akshay\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Akshay\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Akshay\AppData\Local\openvr\openvrpaths.vrpath
+1519965454383	Marionette	INFO	Listening on port 50557
+1519965454827	Marionette	WARN	TLS certificate errors will be ignored for this session
+1519965657696	geckodriver	INFO	geckodriver 0.19.1
+1519965657703	geckodriver	INFO	Listening on 127.0.0.1:51012
+1519965660768	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Akshay\\AppData\\Local\\Temp\\rust_mozprofile.l6LJ2zIOsjcb"
+Unable to read VR Path Registry from C:\Users\Akshay\AppData\Local\openvr\openvrpaths.vrpath
+1519965662608	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Akshay\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Akshay\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Akshay\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Akshay\AppData\Local\openvr\openvrpaths.vrpath
+1519965664116	Marionette	INFO	Listening on port 51020
+1519965664387	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://fw.adsafeprotected.com/rjss/www.googletagservices.com/93446/18421621/dcm/dcmads.js?adsafe_pb=https%3A%2F%2Fadserver.adtechus.com%2Faddyn%2F3.0%2F5399.1%2F2791060%2F0%2F225%2FADTECH%3Bloc%3D100%3Btarget%3D_blank%3Bsub1%3D32013733223710077%3Bsub2%3Dp-pBekKpzLPLnbf%3B, line 257: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: http://adadvisor.net/adscores/g.js?sid=9276253823, line 1: SyntaxError: expected expression, got '<'
+[Parent 1528, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3452, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3452, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src[GPU 32152, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+rs\Akshay\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Akshay\AppData\Local\openvr\openvrpaths.vrpath
+1519965866660	Marionette	INFO	Listening on port 51806
+Unable to read VR Path Registry from C:\Users\Akshay\AppData\Local\openvr\openvrpaths.vrpath
+1519965866731	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 1812, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17444, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17444, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chro[Parent 1812, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 28716, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 28716, Chrome_ChildThread] WARNING: pipe err*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+rpaths.vrpath
+[Parent 31160, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19276, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19276, Chrome_ChildThr[Child 30392, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 30392, Chr*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1519965979998	geckodriver	INFO	geckodriver 0.19.1
+1519965980005	geckodriver	INFO	Listening on 127.0.0.1:52626
+1519965983131	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Akshay\\AppData\\Local\\Temp\\rust_mozprofile.7kML1opayWRP"
+Unable to read VR Path Registry from C:\Users\Akshay\AppData\Local\openvr\openvrpaths.vrpath
+1519965984928	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Akshay\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Akshay\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Akshay\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Akshay\AppData\Local\openvr\openvrpaths.vrpath
+1519965986512	Marionette	INFO	Listening on port 52634
+1519965986754	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://adadvisor.net/adscores/g.js?sid=9276253823, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://adadvisor.net/adscores/g.js?sid=9276253823, line 1: SyntaxError: expected expression, got '<'
+1519966159514	geckodriver	INFO	geckodriver 0.19.1
+1519966159521	geckodriver	INFO	Listening on 127.0.0.1:53291
+1519966162596	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Akshay\\AppData\\Local\\Temp\\rust_mozprofile.MgE7l5e02gtF"
+Unable to read VR Path Registry from C:\Users\Akshay\AppData\Local\openvr\openvrpaths.vrpath
+1519966164433	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Akshay\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Akshay\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Akshay\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Akshay\AppData\Local\openvr\openvrpaths.vrpath
+1519966165876	Marionette	INFO	Listening on port 53300
+1519966166214	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 28848, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 28848, Chrome_ChildThread] WARNING: pipe [Parent 12564, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+onette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Akshay\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Akshay\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Akshay\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Akshay\AppData\Local\openvr\openvrpaths.vrpath
+1519966461180	Marionette	INFO	Listening on port 54003
+1519966461205	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 9952, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x49000E,name=PHttpChannel::Msg_DeletingChannel) Channel clos1519966493334	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Akshay\\AppData\\Local\\Temp\\rust_mozprofile.VPI8nXtzEBtt"
+Unable to read VR Path Registry from C:\Users\Akshay\AppData\Local\openvr\openvrpaths.vrpath
+1519966494781	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Akshay\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Akshay\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Akshay\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Akshay\AppData\Local\openvr\openvrpaths.vrpath
+1519966496139	Marionette	INFO	Listening on port 54285
+1519966496450	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 21376, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 28708, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 28708, Chrome_Chi*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+6529839	geckodriver	INFO	Listening on 127.0.0.1:54521
+1519966532903	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Akshay\\AppData\\Local\\Temp\\rust_mozprofile.sFRGX1I5SMLl"
+Unable to read VR Path Registry from C:\Users\Akshay\AppData\Local\openvr\openvrpaths.vrpath
+1519966534406	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Akshay\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Akshay\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Akshay\AppData\Local\openvr\openvrpaths.vrpath
+1519966535849	Marionette	INFO	Listening on port 54530
+Unable to read VR Path Registry from C:\Users\Akshay\AppData\Local\openvr\openvrpaths.vrpath
+1519966536041	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 28920, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/commo1519966589390	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Akshay\\AppData\\Local\\Temp\\rust_mozprofile.cyM55A6mydKp"
+Unable to read VR Path Registry from C:\Users\Akshay\AppData\Local\openvr\openvrpaths.vrpath
+1519966590972	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Akshay\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Akshay\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Akshay\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Akshay\AppData\Local\openvr\openvrpaths.vrpath
+1519966592394	Marionette	INFO	Listening on port 54986
+1519966592597	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://adadvisor.net/adscores/g.js?sid=9276253823, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a functio1519966782428	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Akshay\\AppData\\Local\\Temp\\rust_mozprofile.G3uA4Exy688N"
+Unable to read VR Path Registry from C:\Users\Akshay\AppData\Local\openvr\openvrpaths.vrpath
+1519966784324	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Akshay\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Akshay\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path RegistJavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, l1519966786414	Marionette	INFO	Listening on port JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypJavaScript error: http://adadvisor.net[Parent 20456, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12396, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 20456, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+oader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: http://adadvisor.net/adscores/g.js?sid=9276253823, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: https://cdn.doubleverify.com/dv-measurements147.js, line 33: TypeError: this.o(...) is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1859"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1859:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:516:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+onStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1859, column: 0
+console.error: 
+  Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1859"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1859:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:516:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+onStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1859, column: 0
+Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1859"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1859:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:516:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+onStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1859, column: 0
+console.error: 
+  Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1859"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1859:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:516:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+onStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1859, column: 0
+Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1859"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1859:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:641:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:598:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:689:7
+Line: 1859, column: 0
+console.error: 
+  Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1859"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1859:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:641:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:598:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:689:7
+Line: 1859, column: 0
+Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1859"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1859:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:641:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:590:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:689:7
+Line: 1859, column: 0
+console.error: 
+  Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1859"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1859:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:641:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:590:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:689:7
+Line: 1859, column: 0
+[Child 15940, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 14600, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3420, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3420, Chrome_ChildThread] WARNING: pip[Child 30568, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3056
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
