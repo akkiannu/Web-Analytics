@@ -8,8 +8,10 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
 import bs4
 import pandas as pd
+
 col_head = []
 col_val = []
+
 def read_data_stats(driver):
     wait = WebDriverWait(driver, 10)
     data_div = wait.until(EC.visibility_of_element_located((By.ID,'datagrid')))
@@ -27,6 +29,8 @@ def read_data_stats(driver):
     next_b(driver)
     df = pd.DataFrame(col_val, columns=col_head)
     return df
+
+
 def next_b(driver):
     id_of_pagination_div = driver.find_element_by_class_name('paginationWidget-next')
     try:
@@ -38,17 +42,25 @@ def next_b(driver):
             read_data_stats(driver)
     except:
         pass
-def reset_all():
+
+
+
+def reset_driver():
+    driver = webdriver.Firefox(executable_path = r'C:\Users\Akshay\Downloads\geckodriver-v0.19.1-win64\geckodriver.exe')
     driver.get('http://mlb.mlb.com/stats/')
-    col_head[:]=[]
-    col_val[:]=[]
+    return driver
+
 def reset_list():
     col_head[:]=[]
     col_val[:]=[]
-driver = webdriver.Firefox(executable_path = r'C:\Users\Akshay\Downloads\geckodriver-v0.19.1-win64\geckodriver.exe')
-driver.get('http://mlb.mlb.com/stats/')
+
+def random_delay():
+    time.sleep(random.uniform(0.5,5))
+
+
 
 def answer_01():
+    driver = reset_driver()
     select_year = Select(driver.find_element_by_class_name('season_select'))
     select_year.select_by_visible_text('2015')
     time.sleep(random.normalvariate(3,0.5))
@@ -64,9 +76,11 @@ def answer_01():
     max_HR_team = team_HR['Team'].iloc[0]
     print(max_HR_team)
 
-    reset_all()
+
+
 
 def answer_02():
+    driver = reset_driver()
     select_year = Select(driver.find_element_by_class_name('season_select'))
     select_year.select_by_visible_text('2015')
     time.sleep(random.normalvariate(3,0.5))
@@ -140,4 +154,66 @@ def answer_02():
 
     df_a.to_csv('Question_2a.csv')
     df_b.to_csv('Question_2b.csv')
-answer_02()
+
+
+def answer_03():
+    driver = reset_driver()
+    select_year = Select(driver.find_element_by_class_name('season_select'))
+    select_year.select_by_visible_text('2017')
+    time.sleep(random.normalvariate(3,0.5))
+    select_navbar_class = driver.find_element_by_id('top_nav')
+    nav_bar = select_navbar_class.find_elements_by_tag_name('li')
+    nav_bar[4].click()
+    time.sleep(random.normalvariate(2,0.5))
+    driver.find_element_by_css_selector('tr.odd:nth-child(12) > td:nth-child(2) > a:nth-child(1)').click()
+    df_player_ny_yank = read_data_stats(driver)
+    bats_ov_30 = pd.to_numeric(df_player_ny_yank['AB'])>30
+    df_accepted = df_player_ny_yank[bats_ov_30]
+    df_accepted_sorted = df_accepted.sort_values('AVG',ascending=False)
+    df_accepted_sorted.to_csv('Question_3a.csv')
+    max_avg_player = df_accepted_sorted['Player'].iloc[0]
+    max_avg_player_pos = df_accepted_sorted['Pos'].iloc[0]
+    driver.find_element_by_link_text(max_avg_player).click()
+    max_avg_full_name = driver.find_element_by_css_selector('.player-name').text
+    print('The player with the highest average having bats more than 30 is {} and the position he plays is {}'.format(max_avg_full_name,max_avg_player_pos))
+    random_delay()
+    driver.back()
+    random_delay()
+    reset_list()
+    positions = ['RF','CF','LF']
+    df_accepted_pos = df_player_ny_yank[df_player_ny_yank['Pos'].isin(positions)]
+    pd.to_numeric(df_accepted_pos['AVG'])
+    df_accepted_pos_sorted = df_accepted_pos.sort_values('AVG', ascending=False)
+    df_accepted_pos_sorted.to_csv('Question_3b.csv')
+    max_outfield_player = df_accepted_pos_sorted['Player'].iloc[0]
+    max_outfield_player_pos = df_accepted_pos_sorted['Pos'].iloc[0]
+    driver.find_element_by_link_text(max_outfield_player).click()
+    max_avg_out_name = driver.find_element_by_css_selector('.player-name').text
+    print('The outfield player who has the highest average is {} and plays in {} postion'.format(max_avg_out_name,max_outfield_player_pos))
+
+
+def answer_04():
+    reset_list()
+    driver = reset_driver()
+    select_year = Select(driver.find_element_by_class_name('season_select'))
+    select_year.select_by_visible_text('2015')
+    random_delay()
+    driver.find_element_by_css_selector('#sp_hitting-1 > fieldset:nth-child(1) > label:nth-child(4)').click()
+    df_al_2015 = read_data_stats(driver)
+    pd.to_numeric(df_al_2015['AB'])
+    al_sorted = df_al_2015.sort_values('AB',ascending=False)
+    player = al_sorted['Player'].iloc[0]
+    random_delay()
+    elem = driver.find_elements_by_link_text(player)
+    if not elem:
+        driver.back()
+        random_delay()
+        elem =driver.find_element_by_link_text(player)
+        elem.click()
+    player_name = driver.find_element_by_css_selector('.player-name').text
+    player_pos = df_al_2015['Pos'].iloc[0]
+    player_team = driver.find_element_by_css_selector('div.dropdown:nth-child(3) > span:nth-child(1)').text
+    print('The player with the most number of bats in the AL plays is {} who plays in {} position for {}'.format(player_name,player_pos,player_team))
+    df_al_2015.to_csv('Question_4.csv')
+
+
