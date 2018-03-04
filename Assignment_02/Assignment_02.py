@@ -9,7 +9,9 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
 import bs4
 import pandas as pd
-
+import http.client, urllib.request, urllib.parse, urllib.error, base64
+import json
+from pprint import pprint
 col_head = []
 col_val = []
 
@@ -314,4 +316,78 @@ def answer_05():
     print(df_latin_player_team)
     df_latin_player_team.to_csv('Quesstion_5.csv')
 
-answer_05()
+def answer_06():
+    headers = {
+        # Request headers
+        'Ocp-Apim-Subscription-Key': '6b8d9a0f4038484897bfb02929b65e4f',
+    }
+
+    params = urllib.parse.urlencode({})
+
+    try:
+        conn = http.client.HTTPSConnection('api.fantasydata.net')
+        conn.request("GET", "/v3/mlb/stats/JSON/Games/2016?%s" % params, "{body}", headers)
+        response = conn.getresponse()
+        data = response.read()
+        conn.close()
+    except Exception as e:
+        print("[Errno {0}] {1}".format(e.errno, e.strerror))
+    try:
+        conn1 = http.client.HTTPSConnection('api.fantasydata.net')
+        conn1.request("GET", "/v3/mlb/stats/JSON/Stadiums?%s" % params, "{body}", headers)
+        response = conn1.getresponse()
+        data1 = response.read()
+        conn1.close()
+    except Exception as e:
+        print("[Errno {0}] {1}".format(e.errno, e.strerror))
+    try:
+        conn2 = http.client.HTTPSConnection('api.fantasydata.net')
+        conn2.request("GET", "/v3/mlb/stats/JSON/AllTeams?%s" % params, "{body}", headers)
+        response = conn2.getresponse()
+        data2 = response.read()
+        conn2.close()
+    except Exception as e:
+        print("[Errno {0}] {1}".format(e.errno, e.strerror))
+
+    data_json_games = json.loads(data)
+    data_stadiums = json.loads(data1)
+    data_teams = json.loads(data2)
+
+    opponnent = []
+    game_dates = []
+    stadiumID = []
+    stadiumName = []
+    game_city = []
+    game_state = []
+    opp_name = []
+
+    for game in data_json_games:
+        if game['HomeTeam']=="HOU":
+            opponnent.append(game["AwayTeam"])
+            game_dates.append(game["DateTime"])
+            stadiumID.append(game["StadiumID"])
+        elif game['AwayTeam']=="HOU":
+            opponnent.append(game["HomeTeam"])
+            game_dates.append(game["DateTime"])
+            stadiumID.append(game["StadiumID"])
+    for ID in stadiumID:
+        for stadium in data_stadiums:
+            if ID == stadium['StadiumID']:
+                stadiumName.append(stadium['Name'])
+                game_city.append(stadium['State'])
+                game_state.append(stadium["City"])
+    for opp in opponnent:
+        for team in data_teams:
+            if opp==team["Key"]:
+                opp_name.append(team['Name'])
+
+    dic_hou = {'Opponents': opp_name,'Date':game_dates,'Stadium Name': stadiumName, 'City': game_city,'State':game_state}
+    df_games = pd.DataFrame(dic_hou)
+    print(df_games)
+    with open('Games_info.json', 'w') as fp:
+        json.dump(data_json_games, fp)
+    with open('Stadium_info.json', 'w') as fp:
+        json.dump(data_stadiums, fp)
+    with open('Teams_info.json', 'w') as fp:
+        json.dump(data_teams, fp)
+answer_06()
