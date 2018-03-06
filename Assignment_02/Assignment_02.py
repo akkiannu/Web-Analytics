@@ -131,19 +131,6 @@ def answer_02():
     nl_hr = df_nl_team['HR']
     num_nl = pd.to_numeric(nl_hr, errors='ignore')
     mean_nl = num_nl.mean()
-    # al_team = df_al_team['Team']
-    # al_hr   = pd.to_numeric(df_al_team['HR'])
-    # num_al = pd.concat([al_team,al_hr])
-    # mean_al = num_al['HR'].mean()
-    # nl_team = df_nl_team['Team']
-    # nl_hr   = pd.to_numeric(df_nl_team['HR'])
-    # num_nl = pd.concat([nl_team,nl_hr])
-    # mean_nl = num_nl['HR'].mean()
-    # print(pd.to_numeric(df_al_team['HR']))
-    # print(pd.to_numeric(df_nl_team['HR']))
-    #
-    # mean_al= df_al_team["HR"].mean()
-    # mean_nl = df_nl_team["HR"].mean()
 
     print('The average HR for AL teams is: {}'.format(mean_al))
     print('The average HR for NL teams is: {}'.format(mean_nl))
@@ -173,18 +160,6 @@ def answer_02():
     nl_hr_first = df_nl_first['HR']
     num_nl_first = pd.to_numeric(nl_hr_first, errors='ignore')
     mean_nl_first = num_nl_first.mean()
-    # al_team_first = df_al_first['Team']
-    # al_hr_first   = pd.to_numeric(df_al_first['HR'])
-    # num_al_first = pd.concat([al_team_first,al_hr_first])
-    # mean_al_first = num_al_first['HR'].mean()
-    # nl_team_first = df_nl_first['Team']
-    # nl_hr_first   = pd.to_numeric(df_nl_first['HR'])
-    # num_nl_first = pd.concat([nl_team_first,nl_hr_first])
-    # mean_nl_first = num_nl_first['HR'].mean()
-    # pd.to_numeric(df_al_first['HR'])
-    # pd.to_numeric(df_nl_first['HR'])
-    # mean_al_first= df_al_first["HR"].mean()
-    # mean_nl_first = df_nl_first["HR"].mean()
 
     print('The average HR for AL teams is: {}'.format(mean_al_first))
     print('The average HR for NL teams is: {}'.format(mean_nl_first))
