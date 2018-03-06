@@ -49,7 +49,7 @@ def next_b(driver):
 
 
 def reset_driver():
-    driver = webdriver.Firefox(executable_path = r'C:\Users\Akshay\Downloads\geckodriver-v0.19.1-win64\geckodriver.exe')
+    driver = webdriver.Firefox(executable_path = r'.\geckodriver.exe')
     driver.get('http://mlb.mlb.com/stats/')
     return driver
 
@@ -63,24 +63,33 @@ def random_delay():
 def regular_seaon(driver):
     select_reg_season = Select(driver.find_element_by_id('st_hitting_game_type'))
     select_reg_season.select_by_visible_text('Regular Season')
+    random_delay()
+
+def regular_seaon_player(driver):
+    select_reg_season = Select(driver.find_element_by_id('sp_hitting_game_type'))
+    select_reg_season.select_by_visible_text('Regular Season')
+    random_delay()
 
 
 def answer_01():
     driver = reset_driver()
     select_year = Select(driver.find_element_by_class_name('season_select'))
     select_year.select_by_visible_text('2015')
-    time.sleep(random.normalvariate(3,0.5))
+    random_delay()
     select_navbar_class = driver.find_element_by_id('top_nav')
     nav_bar = select_navbar_class.find_elements_by_tag_name('li')
     nav_bar[4].click()
-
-    time.sleep(random.normalvariate(3, 0.5))
+    random_delay()
+    regular_seaon(driver)
     df_team_2015 = read_data_stats(driver)
+    random_delay()
+
     df_team_2015.to_csv('Question_1.csv')
 
     team_HR = df_team_2015.sort_values('HR',ascending=False)
     max_HR_team = team_HR['Team'].iloc[0]
     print(max_HR_team)
+    driver.close()
 
 
 
@@ -191,6 +200,8 @@ def answer_02():
     df_a.to_csv('Question_2a.csv')
     df_b.to_csv('Question_2b.csv')
 
+    driver.close()
+
 
 def answer_03():
     driver = reset_driver()
@@ -224,39 +235,53 @@ def answer_03():
     random_delay()
     reset_list()
     positions = ['RF','CF','LF']
+
     df_accepted_pos = df_player_ny_yank[df_player_ny_yank['Pos'].isin(positions)]
     df_accepted_avg = pd.to_numeric(df_accepted_pos['AVG'])
+
     df_player_avg = pd.concat([df_accepted_pos['Player'],df_accepted_avg], axis=1)
     df_player_pos = pd.concat([df_accepted_pos['Player'],df_accepted_pos['Pos']],axis=1)
+
     df_player_avg_pos = pd.merge(df_player_avg,df_player_pos,on='Player')
     df_accepted_pos_sorted = df_player_avg_pos.sort_values('AVG', ascending=False)
+
     df_player_avg_pos.to_csv('Question_3b.csv')
+
     max_outfield_player = df_accepted_pos_sorted['Player'].iloc[0]
     max_outfield_player_pos = df_accepted_pos_sorted['Pos'].iloc[0]
+
     driver.find_element_by_link_text(max_outfield_player).click()
-    max_avg_out_name = driver.find_element_by_css_selector('.player-name').text
+    max_avg_out_name = driver.find_element_by_css_selector('.full-name').text
+
     print('The outfield player who has the highest average is {} and plays in {} postion'.format(max_avg_out_name,max_outfield_player_pos))
 
+    driver.close()
 
 def answer_04():
     reset_list()
     driver = reset_driver()
+
     select_year = Select(driver.find_element_by_class_name('season_select'))
     select_year.select_by_visible_text('2015')
+
     random_delay()
+
     driver.find_element_by_css_selector('#sp_hitting-1 > fieldset:nth-child(1) > label:nth-child(4)').click()
     random_delay()
     driver.find_element_by_css_selector('#sp_hitting-0 > fieldset:nth-child(5) > label:nth-child(2)').click()
     random_delay()
-    regular_seaon(driver)
-    select_reg_season = Select(driver.find_element_by_id('st_hitting_game_type'))
-    select_reg_season.select_by_visible_text('Regular Season')
+
+    regular_seaon_player(driver)
+
     df_al_2015 = read_data_stats(driver)
+
     df_ab_2015 = pd.to_numeric(df_al_2015['AB'],errors='ignore')
     df_al_ab_2015 = pd.concat([df_al_2015['Player'],df_ab_2015], axis=1)
     al_sorted = df_al_ab_2015.sort_values('AB',ascending=False)
     player = al_sorted['Player'].iloc[0]
+
     random_delay()
+
     while True:
         elem = driver.find_elements_by_link_text(player)
         random_delay()
@@ -267,11 +292,15 @@ def answer_04():
         else:
             elem[0].click()
             break
+
     player_name = driver.find_element_by_css_selector('.full-name').text
-    player_pos = df_al_2015['Pos'].iloc[0]
+    player_pos = driver.find_element_by_css_selector('.player-vitals > ul:nth-child(2) > li:nth-child(1)').text
     player_team = driver.find_element_by_css_selector('div.dropdown:nth-child(3) > span:nth-child(1)').text
+
     print('The player with the most number of bats in the AL plays is {} who plays in {} position for {}'.format(player_name,player_pos,player_team))
+
     df_al_2015.to_csv('Question_4.csv')
+    driver.close()
 
 def answer_05():
     reset_list()
@@ -314,12 +343,14 @@ def answer_05():
     df_latin_player_team = pd.DataFrame(list(latin_player.items()),columns=['Player Name','Team'])
     print('Players born in latin america with their corresponding team name:')
     print(df_latin_player_team)
-    df_latin_player_team.to_csv('Quesstion_5.csv')
+    df_latin_player_team.to_csv('Question_5.csv')
+
+    driver.close()
 
 def answer_06():
     headers = {
         # Request headers
-        'Ocp-Apim-Subscription-Key': '6b8d9a0f4038484897bfb02929b65e4f',
+            'Ocp-Apim-Subscription-Key': '6b8d9a0f4038484897bfb02929b65e4f',
     }
 
     params = urllib.parse.urlencode({})
@@ -384,10 +415,17 @@ def answer_06():
     dic_hou = {'Opponents': opp_name,'Date':game_dates,'Stadium Name': stadiumName, 'City': game_city,'State':game_state}
     df_games = pd.DataFrame(dic_hou)
     print(df_games)
-    with open('Games_info.json', 'w') as fp:
+    df_games.to_csv('Answer_06.csv')
+
+    with open('Question_6_Games.json', 'w') as fp:
         json.dump(data_json_games, fp)
-    with open('Stadium_info.json', 'w') as fp:
+    with open('Question_6_Stadiums.json', 'w') as fp:
         json.dump(data_stadiums, fp)
-    with open('Teams_info.json', 'w') as fp:
+    with open('Question_6_All_Teams.json', 'w') as fp:
         json.dump(data_teams, fp)
-answer_06()
+# answer_01()
+# answer_02()
+# answer_03()
+answer_04()
+# # answer_05()
+# answer_06()

@@ -1,0 +1,165 @@
+,City,Date,Opponents,Stadium Name,State
+0,NY,2016-04-04T13:00:00,Yankees,Yankee Stadium,New York
+1,NY,2016-04-05T13:05:00,Yankees,Yankee Stadium,New York
+2,NY,2016-04-06T19:05:00,Yankees,Yankee Stadium,New York
+3,NY,2016-04-07T16:15:00,Yankees,Yankee Stadium,New York
+4,WI,2016-04-08T20:10:00,Brewers,Miller Park,Milwaukee
+5,WI,2016-04-09T19:10:00,Brewers,Miller Park,Milwaukee
+6,WI,2016-04-10T14:10:00,Brewers,Miller Park,Milwaukee
+7,TX,2016-04-11T20:10:00,Royals,Minute Maid Park,Houston
+8,TX,2016-04-12T20:10:00,Royals,Minute Maid Park,Houston
+9,TX,2016-04-13T20:10:00,Royals,Minute Maid Park,Houston
+10,TX,2016-04-14T20:10:00,Royals,Minute Maid Park,Houston
+11,TX,2016-04-15T20:10:00,Tigers,Minute Maid Park,Houston
+12,TX,2016-04-16T19:10:00,Tigers,Minute Maid Park,Houston
+13,TX,2016-04-17T14:10:00,Tigers,Minute Maid Park,Houston
+14,TX,2016-04-19T20:05:00,Rangers,Globe Life Park in Arlington,Arlington
+15,TX,2016-04-20T20:05:00,Rangers,Globe Life Park in Arlington,Arlington
+16,TX,2016-04-21T20:05:00,Rangers,Globe Life Park in Arlington,Arlington
+17,TX,2016-04-22T20:10:00,Red Sox,Minute Maid Park,Houston
+18,TX,2016-04-23T16:05:00,Red Sox,Minute Maid Park,Houston
+19,TX,2016-04-24T20:05:00,Red Sox,Minute Maid Park,Houston
+20,WA,2016-04-25T22:10:00,Mariners,Safeco Field,Seattle
+21,WA,2016-04-26T22:10:00,Mariners,Safeco Field,Seattle
+22,WA,2016-04-27T22:10:00,Mariners,Safeco Field,Seattle
+23,CA,2016-04-29T22:05:00,Athletics,O.co Coliseum,Oakland
+24,CA,2016-04-30T16:05:00,Athletics,O.co Coliseum,Oakland
+25,CA,2016-05-01T16:05:00,Athletics,O.co Coliseum,Oakland
+26,TX,2016-05-02T20:10:00,Twins,Minute Maid Park,Houston
+27,TX,2016-05-03T20:10:00,Twins,Minute Maid Park,Houston
+28,TX,2016-05-04T20:10:00,Twins,Minute Maid Park,Houston
+29,TX,2016-05-05T20:10:00,Mariners,Minute Maid Park,Houston
+30,TX,2016-05-06T20:10:00,Mariners,Minute Maid Park,Houston
+31,TX,2016-05-07T19:10:00,Mariners,Minute Maid Park,Houston
+32,TX,2016-05-08T14:10:00,Mariners,Minute Maid Park,Houston
+33,TX,2016-05-09T20:10:00,Indians,Minute Maid Park,Houston
+34,TX,2016-05-10T20:10:00,Indians,Minute Maid Park,Houston
+35,TX,2016-05-11T14:10:00,Indians,Minute Maid Park,Houston
+36,MA,2016-05-12T19:10:00,Red Sox,Fenway Park,Boston
+37,MA,2016-05-13T19:10:00,Red Sox,Fenway Park,Boston
+38,MA,2016-05-14T13:05:00,Red Sox,Fenway Park,Boston
+39,MA,2016-05-15T13:35:00,Red Sox,Fenway Park,Boston
+40,IL,2016-05-17T20:10:00,White Sox,U.S. Cellular Field,Chicago
+41,IL,2016-05-18T20:10:00,White Sox,U.S. Cellular Field,Chicago
+42,IL,2016-05-19T20:10:00,White Sox,U.S. Cellular Field,Chicago
+43,TX,2016-05-20T20:10:00,Rangers,Minute Maid Park,Houston
+44,TX,2016-05-21T19:15:00,Rangers,Minute Maid Park,Houston
+45,TX,2016-05-22T14:10:00,Rangers,Minute Maid Park,Houston
+46,TX,2016-05-24T20:10:00,Orioles,Minute Maid Park,Houston
+47,TX,2016-05-25T20:10:00,Orioles,Minute Maid Park,Houston
+48,TX,2016-05-26T20:10:00,Orioles,Minute Maid Park,Houston
+49,CA,2016-05-27T22:05:00,Angels,Angel Stadium of Anaheim,Anaheim
+50,CA,2016-05-28T22:05:00,Angels,Angel Stadium of Anaheim,Anaheim
+51,CA,2016-05-29T15:35:00,Angels,Angel Stadium of Anaheim,Anaheim
+52,AZ,2016-05-30T16:10:00,Diamondbacks,Chase Field,Phoenix
+53,AZ,2016-05-31T15:40:00,Diamondbacks,Chase Field,Phoenix
+54,TX,2016-06-01T20:10:00,Diamondbacks,Minute Maid Park,Houston
+55,TX,2016-06-02T14:10:00,Diamondbacks,Minute Maid Park,Houston
+56,TX,2016-06-03T20:10:00,Athletics,Minute Maid Park,Houston
+57,TX,2016-06-04T16:10:00,Athletics,Minute Maid Park,Houston
+58,TX,2016-06-05T14:10:00,Athletics,Minute Maid Park,Houston
+59,TX,2016-06-06T20:05:00,Rangers,Globe Life Park in Arlington,Arlington
+60,TX,2016-06-07T20:05:00,Rangers,Globe Life Park in Arlington,Arlington
+61,TX,2016-06-08T20:05:00,Rangers,Globe Life Park in Arlington,Arlington
+62,TX,2016-06-09T14:05:00,Rangers,Globe Life Park in Arlington,Arlington
+63,FL,2016-06-10T19:10:00,Rays,Tropicana Field,St. Petersburg
+64,FL,2016-06-11T16:10:00,Rays,Tropicana Field,St. Petersburg
+65,FL,2016-06-12T13:10:00,Rays,Tropicana Field,St. Petersburg
+66,MO,2016-06-14T20:15:00,Cardinals,Busch Stadium,St. Louis
+67,MO,2016-06-15T19:15:00,Cardinals,Busch Stadium,St. Louis
+68,TX,2016-06-17T20:10:00,Reds,Minute Maid Park,Houston
+69,TX,2016-06-18T16:10:00,Reds,Minute Maid Park,Houston
+70,TX,2016-06-19T14:10:00,Reds,Minute Maid Park,Houston
+71,TX,2016-06-20T20:10:00,Angels,Minute Maid Park,Houston
+72,TX,2016-06-21T20:10:00,Angels,Minute Maid Park,Houston
+73,TX,2016-06-22T14:10:00,Angels,Minute Maid Park,Houston
+74,MO,2016-06-24T20:15:00,Royals,Kauffman Stadium,Kansas City
+75,MO,2016-06-25T19:15:00,Royals,Kauffman Stadium,Kansas City
+76,MO,2016-06-26T14:15:00,Royals,Kauffman Stadium,Kansas City
+77,CA,2016-06-27T22:05:00,Angels,Angel Stadium of Anaheim,Anaheim
+78,CA,2016-06-28T22:05:00,Angels,Angel Stadium of Anaheim,Anaheim
+79,CA,2016-06-29T15:35:00,Angels,Angel Stadium of Anaheim,Anaheim
+80,TX,2016-07-01T20:10:00,White Sox,Minute Maid Park,Houston
+81,TX,2016-07-02T16:10:00,White Sox,Minute Maid Park,Houston
+82,TX,2016-07-03T14:10:00,White Sox,Minute Maid Park,Houston
+83,TX,2016-07-04T14:10:00,Mariners,Minute Maid Park,Houston
+84,TX,2016-07-05T20:10:00,Mariners,Minute Maid Park,Houston
+85,TX,2016-07-06T20:10:00,Mariners,Minute Maid Park,Houston
+86,TX,2016-07-07T20:10:00,Athletics,Minute Maid Park,Houston
+87,TX,2016-07-08T20:10:00,Athletics,Minute Maid Park,Houston
+88,TX,2016-07-09T16:10:00,Athletics,Minute Maid Park,Houston
+89,TX,2016-07-10T14:10:00,Athletics,Minute Maid Park,Houston
+90,WA,2016-07-15T22:10:00,Mariners,Safeco Field,Seattle
+91,WA,2016-07-16T16:10:00,Mariners,Safeco Field,Seattle
+92,WA,2016-07-17T16:10:00,Mariners,Safeco Field,Seattle
+93,CA,2016-07-18T22:05:00,Athletics,O.co Coliseum,Oakland
+94,CA,2016-07-19T22:05:00,Athletics,O.co Coliseum,Oakland
+95,CA,2016-07-20T15:35:00,Athletics,O.co Coliseum,Oakland
+96,TX,2016-07-22T20:10:00,Angels,Minute Maid Park,Houston
+97,TX,2016-07-23T19:10:00,Angels,Minute Maid Park,Houston
+98,TX,2016-07-24T14:10:00,Angels,Minute Maid Park,Houston
+99,TX,2016-07-25T20:10:00,Yankees,Minute Maid Park,Houston
+100,TX,2016-07-26T20:10:00,Yankees,Minute Maid Park,Houston
+101,TX,2016-07-27T20:10:00,Yankees,Minute Maid Park,Houston
+102,MI,2016-07-29T19:10:00,Tigers,Comerica Park,Detroit
+103,MI,2016-07-30T19:10:00,Tigers,Comerica Park,Detroit
+104,MI,2016-07-31T13:10:00,Tigers,Comerica Park,Detroit
+105,TX,2016-08-01T20:10:00,Blue Jays,Minute Maid Park,Houston
+106,TX,2016-08-02T20:10:00,Blue Jays,Minute Maid Park,Houston
+107,TX,2016-08-03T20:10:00,Blue Jays,Minute Maid Park,Houston
+108,TX,2016-08-04T20:10:00,Blue Jays,Minute Maid Park,Houston
+109,TX,2016-08-05T20:10:00,Rangers,Minute Maid Park,Houston
+110,TX,2016-08-06T19:10:00,Rangers,Minute Maid Park,Houston
+111,TX,2016-08-07T14:10:00,Rangers,Minute Maid Park,Houston
+112,MN,2016-08-08T20:10:00,Twins,Target Field,Minneapolis
+113,MN,2016-08-09T20:10:00,Twins,Target Field,Minneapolis
+114,MN,2016-08-10T20:10:00,Twins,Target Field,Minneapolis
+115,MN,2016-08-11T19:10:00,Twins,Target Field,Minneapolis
+116,MN,2016-08-11T13:10:00,Twins,Target Field,Minneapolis
+117,ON,2016-08-12T19:07:00,Blue Jays,Rogers Centre,Toronto
+118,ON,2016-08-13T13:07:00,Blue Jays,Rogers Centre,Toronto
+119,ON,2016-08-14T13:07:00,Blue Jays,Rogers Centre,Toronto
+120,TX,2016-08-16T20:10:00,Cardinals,Minute Maid Park,Houston
+121,TX,2016-08-17T14:10:00,Cardinals,Minute Maid Park,Houston
+122,MD,2016-08-18T19:05:00,Orioles,Oriole Park at Camden Yards,Baltimore
+123,MD,2016-08-19T19:05:00,Orioles,Oriole Park at Camden Yards,Baltimore
+124,MD,2016-08-20T19:05:00,Orioles,Oriole Park at Camden Yards,Baltimore
+125,MD,2016-08-21T13:35:00,Orioles,Oriole Park at Camden Yards,Baltimore
+126,PA,2016-08-22T19:05:00,Pirates,PNC Park,Pittsburgh
+127,PA,2016-08-23T19:05:00,Pirates,PNC Park,Pittsburgh
+128,PA,2016-08-24T12:35:00,Pirates,PNC Park,Pittsburgh
+129,TX,2016-08-26T20:10:00,Rays,Minute Maid Park,Houston
+130,TX,2016-08-27T19:10:00,Rays,Minute Maid Park,Houston
+131,TX,2016-08-28T14:10:00,Rays,Minute Maid Park,Houston
+132,TX,2016-08-29T20:10:00,Athletics,Minute Maid Park,Houston
+133,TX,2016-08-30T20:10:00,Athletics,Minute Maid Park,Houston
+134,TX,2016-08-31T14:10:00,Athletics,Minute Maid Park,Houston
+135,TX,2016-09-02T20:05:00,Rangers,Globe Life Park in Arlington,Arlington
+136,TX,2016-09-03T16:05:00,Rangers,Globe Life Park in Arlington,Arlington
+137,TX,2016-09-04T15:05:00,Rangers,Globe Life Park in Arlington,Arlington
+138,OH,2016-09-05T19:10:00,Indians,Progressive Field,Cleveland
+139,OH,2016-09-06T19:10:00,Indians,Progressive Field,Cleveland
+140,OH,2016-09-07T19:10:00,Indians,Progressive Field,Cleveland
+141,OH,2016-09-08T12:10:00,Indians,Progressive Field,Cleveland
+142,TX,2016-09-09T20:10:00,Cubs,Minute Maid Park,Houston
+143,TX,2016-09-10T13:05:00,Cubs,Minute Maid Park,Houston
+144,TX,2016-09-11T20:05:00,Cubs,Minute Maid Park,Houston
+145,TX,2016-09-12T20:10:00,Rangers,Minute Maid Park,Houston
+146,TX,2016-09-13T20:10:00,Rangers,Minute Maid Park,Houston
+147,TX,2016-09-14T20:10:00,Rangers,Minute Maid Park,Houston
+148,WA,2016-09-16T22:10:00,Mariners,Safeco Field,Seattle
+149,WA,2016-09-17T21:10:00,Mariners,Safeco Field,Seattle
+150,WA,2016-09-18T16:10:00,Mariners,Safeco Field,Seattle
+151,CA,2016-09-19T22:05:00,Athletics,O.co Coliseum,Oakland
+152,CA,2016-09-20T22:05:00,Athletics,O.co Coliseum,Oakland
+153,CA,2016-09-21T15:35:00,Athletics,O.co Coliseum,Oakland
+154,TX,2016-09-22T20:10:00,Angels,Minute Maid Park,Houston
+155,TX,2016-09-23T20:10:00,Angels,Minute Maid Park,Houston
+156,TX,2016-09-24T19:10:00,Angels,Minute Maid Park,Houston
+157,TX,2016-09-25T14:10:00,Angels,Minute Maid Park,Houston
+158,TX,2016-09-26T20:10:00,Mariners,Minute Maid Park,Houston
+159,TX,2016-09-27T20:10:00,Mariners,Minute Maid Park,Houston
+160,TX,2016-09-28T14:10:00,Mariners,Minute Maid Park,Houston
+161,CA,2016-09-30T22:05:00,Angels,Angel Stadium of Anaheim,Anaheim
+162,CA,2016-10-01T21:05:00,Angels,Angel Stadium of Anaheim,Anaheim
+163,CA,2016-10-02T15:05:00,Angels,Angel Stadium of Anaheim,Anaheim
